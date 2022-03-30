@@ -4,6 +4,7 @@ description: Lecture presentation on the Perceptron algorithm, condition number,
   rescaling, and the randomized rescaling algorithm.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-099-readings-in-optimization-fall-2003/3e9ff3c64a892f177385bb9fd1244786_ses2_dunagan.pdf
 file_type: application/pdf
+parent_uid: 76a0e948-3ff4-80d7-19d1-1e8735c96df7
 resourcetype: Document
 title: A Randomized Algorithm For LP Feasibility
 uid: 3e9ff3c6-4a89-2f17-7385-bb9fd1244786
